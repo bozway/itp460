@@ -1,5 +1,5 @@
 <?php
 
-echo "Finally fucking fixed it!!!!!!!";
+echo "ITP460 Demo ongoing!!!!";
 
 ?>
