@@ -1,11 +1,5 @@
 <?php
 
-echo "ITP460 Demo ongoing!!!!";
-
-echo "I'm making some changes in my bo-dev branch"
-
-echo "Bo loves to joke around"
-
-echo "I'm testing"
+echo "Hello ITP460ers, y'all awesome!";
 
 ?>
