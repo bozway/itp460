@@ -27,3 +27,9 @@ function offerRewards(){
 }
 ```
 This is a good example :+1:, 💥
+
+## Setup
+To setup your local development environment
+- [x]Install Commandline on your computer, no need for mac
+- [ ]Install NodeJS
+- [ ]Install MangoDB
