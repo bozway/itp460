@@ -30,3 +30,9 @@ function offerStudentReward(){
 
 This is a good example :+1: :boom:
 
+## Setup
+To setup your local development environment
+- [x] Install commandline on your computer, use terminal if you are using mac computer
+- [ ] Install NodeJS
+- [ ] Install MangoDB
+- [ ] More...。
