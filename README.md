@@ -27,3 +27,6 @@ var parentPortal
 function offerStudentReward(){
 }
 ```
+
+This is a good example :+1: :boom:
+
