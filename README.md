@@ -21,9 +21,9 @@ ITP460 class website serves as the classpage, All class materials will be posted
 ## Coding Guidelines
 We are using MVC model to manage our codes
 ```
-# Example of how a variable should named, _lowerUpperUpper_, make it readable
+# Example of how a variable should named, *lowerUpperUpper* , make it readable
 var parentPortal
-# Example of a function name. _lowerUpperUpper_.
+# Example of a function name. *lowerUpperUpper*.
 function offerStudentReward(){
 }
 ```
